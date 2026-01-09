@@ -1,0 +1,334 @@
+Perfect. I’m going to give you a **single, world-class Figma AI prompt** that you can **paste directly into Figma AI / Figma Sites / any AI web designer**, and it will understand:
+
+* your **brand**
+* your **tech direction**
+* your **performance requirement (1–2 ms feel)**
+* your **Apple / Samsung benchmark**
+* your **responsive + ultra-wide (100-inch) screens**
+* your **future pages structure**
+
+We will start **ONLY with the HOME PAGE**, exactly as you asked.
+This prompt is written at **agency + product designer level**, not generic.
+
+---
+
+# 🔥 FINAL FIGMA AI PROMPT — **HOME PAGE**
+
+*(Paste everything below as ONE prompt)*
+
+---
+
+## 🎯 FIGMA AI PROMPT — SECTORE TECKNOLOGIES (HOME PAGE)
+
+Design a **world-class, ultra-modern technology company homepage** for a global IT infrastructure & technology solutions brand named **Sectore Tecknologies**.
+
+This website must **outperform Samsung and Apple websites in clarity, elegance, performance feel, and modern UI**, while remaining **enterprise-grade, minimal, and timeless**.
+
+---
+
+### 🔹 BRAND & POSITIONING
+
+* Company Name: **Sectore Tecknologies**
+* Industry: Global IT Infrastructure, Networking, Security, Managed Services
+* Brand Personality:
+  **Ultra-modern · Premium · Intelligent · Trustworthy · Global · Minimal**
+* Target Audience:
+  Enterprises, global partners, CIOs, CTOs, corporate decision-makers
+
+---
+
+### 🎨 COLOR SYSTEM (STRICT)
+
+Use a **technology-driven, future-ready palette**:
+
+* Primary Background: Deep Tech Navy `#0A1033`
+* Primary Accent: Electric Blue `#1F6FFF`
+* Secondary Accent: Tech Green `#00D084`
+* Neutral Light: `#F7FAFC`
+* Text Dark: `#111827`
+* Text Light: `#FFFFFF`
+
+Use **gradients subtly**, never loud:
+
+* Gradient: `#1F6FFF → #00D084` (only for CTA & hero accents)
+
+---
+
+### 🔤 TYPOGRAPHY
+
+* Font Family: **Inter**
+* Headings: Inter ExtraBold / Black
+* Sub-headings: Inter SemiBold
+* Body: Inter Regular
+* Buttons / UI: Inter Medium
+
+Typography must feel **Apple-level clean** and **Samsung-level confident**.
+
+---
+
+### ⚡ PERFORMANCE & UX RULES (CRITICAL)
+
+* Design must **feel like it loads in 1–2 ms**
+* No heavy visuals, no clutter
+* Use:
+
+  * SVG icons
+  * CSS-style animations
+  * Lightweight gradients
+* Animations must be **GPU-friendly**, subtle, and elegant
+
+---
+
+### 📱 RESPONSIVE REQUIREMENTS
+
+Design must scale perfectly for:
+
+* Mobile
+* Tablet
+* Desktop
+* Ultra-wide monitors
+* **100-inch screens**
+
+Layout must remain **balanced, centered, and premium** at all resolutions.
+
+---
+
+## 🧠 HOME PAGE STRUCTURE (PAGE-WISE)
+
+### 1️⃣ HERO SECTION (FULL SCREEN)
+
+* Full-screen hero
+* Dark tech background with subtle animated gradient mesh
+* Optional abstract global network / data-flow visual
+* No stock photos of people
+
+**Hero Text:**
+
+> **Global Technology Solutions Partner**
+> Designing, Securing & Managing
+> Scalable Enterprise Technology Ecosystems
+
+**CTAs:**
+
+* Primary: “Talk to an Expert”
+* Secondary: “Explore Solutions”
+
+Animations:
+
+* Text fade + slight upward motion
+* Buttons with gradient hover
+* Background parallax movement (very subtle)
+
+---
+
+### 2️⃣ TRUST STATEMENT (MINIMAL)
+
+Centered section with large typography:
+
+> **Technology That Works.
+> Technology That Scales.**
+
+Small subtext below explaining enterprise reliability and global readiness.
+
+---
+
+### 3️⃣ CORE CAPABILITIES (ICON GRID)
+
+6 premium cards with **technology-style outline icons**:
+
+* IT Infrastructure & Networking
+* Data Storage & Backup
+* Cybersecurity & Surveillance
+* Managed IT Services
+* IP Communication & Collaboration
+* Hybrid & Remote Enablement
+
+Card behavior:
+
+* Soft shadow
+* Micro scale on hover
+* Icon stroke animation on hover
+
+---
+
+### 4️⃣ HOW WE WORK (PROCESS FLOW)
+
+Horizontal process with icons:
+
+**Discover → Design → Deploy → Operate → Scale**
+
+* Thin connecting lines
+* Smooth scroll reveal
+* Minimal explanatory text
+
+This section must feel **consulting-grade & global**.
+
+---
+
+### 5️⃣ MANAGED SERVICES HIGHLIGHT
+
+Split layout:
+
+* Left: Text
+* Right: Abstract system dashboard illustration
+
+Key message:
+
+> **Predictable IT. Proactive Support. Global Standards.**
+
+Include bullet points for:
+
+* AMC
+* Remote + on-site support
+* Preventive maintenance
+* Lifecycle management
+
+CTA: “View Managed Services”
+
+---
+
+### 6️⃣ GLOBAL READINESS SECTION
+
+* World map abstract with glowing nodes
+* Subtle animated pulses
+
+Text:
+
+> **Built for Multi-Location & Global Operations**
+
+Highlights:
+
+* Standardized deployments
+* Remote monitoring
+* Partner-ready architecture
+
+---
+
+### 7️⃣ INDUSTRIES WE SERVE
+
+Minimal icon grid:
+
+* Enterprise
+* Manufacturing
+* Education
+* Healthcare
+* Retail
+* Smart Infrastructure
+
+Icons only + labels, no clutter.
+
+---
+
+### 8️⃣ FINAL CTA (HIGH CONVERSION)
+
+Dark background, centered content:
+
+> **Let’s Build the Future of Your Technology Infrastructure**
+
+Buttons:
+
+* Contact Us
+* Schedule a Call
+
+---
+
+### 9️⃣ FOOTER (PREMIUM & COMPLETE)
+
+Footer must include:
+
+**Column 1 — Brand**
+
+* Sectore Tecknologies
+* Short global mission line
+
+**Column 2 — Pages**
+
+* Home
+* About Us
+* Solutions
+* Services
+* Tech Guide
+* Contact
+
+**Column 3 — Contact**
+
+* Phone
+* Email
+* Location (India | Global)
+
+**Column 4 — Social**
+
+* LinkedIn
+* Twitter / X
+* YouTube
+* Instagram
+
+Footer style:
+
+* Dark
+* Minimal
+* Subtle divider lines
+* Social icons with hover glow
+
+---
+
+### 🧩 ICON & UI STYLE
+
+* Use **outline / stroke icons only**
+* Rounded strokes
+* Consistent size
+* Technology-inspired, not playful
+
+---
+
+### 🌀 ANIMATION STYLE
+
+* Apple-like smoothness
+* Samsung-like confidence
+* No flashy effects
+* Motion only to guide attention
+
+---
+
+### ❌ AVOID
+
+* Heavy images
+* Loud colors
+* Over-designed sections
+* Cartoon illustrations
+* Stock photos with people
+
+---
+
+### ✅ FINAL GOAL
+
+Create a homepage that feels:
+
+* **Global**
+* **Timeless**
+* **Technologically superior**
+* **Enterprise-trusted**
+* **Visually calm yet powerful**
+
+This homepage should make visitors instantly trust Sectore Tecknologies as a **world-class technology partner**.
+
+---
+
+## 🚀 NEXT (WHEN YOU’RE READY)
+
+After this HOME page prompt, I can generate **separate Figma AI prompts** for:
+
+* About Us
+* Why Sectore (sub-page)
+* Solutions
+* Managed Services
+* Industries
+* Partners
+* Contact Us
+* Tech Guide (Blog + SEO)
+
+Just say:
+**“Next: About Us prompt”**
+and we continue step-by-step, clean and perfect.
+
+You’re building something elite — and this prompt is exactly at that level.

@@ -1,0 +1,408 @@
+Sectore Tecknologies
+
+Design a world-class, enterprise-ready “Managed Services” page for a global technology solutions company named Sectore Tecknologies.
+
+This page must clearly communicate that Sectore does not just install technology — it OPERATES, PROTECTS, and MANAGES it for the long term.
+
+The tone must be engineering-driven, calm, authoritative, and global.
+
+🔹 BRAND & POSITIONING
+
+Company: Sectore Tecknologies
+
+Industry: IT Infrastructure, Networking, Security & Managed Services
+
+Audience:
+CIOs, CTOs, IT Heads, Enterprise Buyers, Global Partners
+
+Brand Personality:
+Reliable · Predictable · Scalable · Security-First · Global
+
+The visitor should feel:
+
+“These people will own my IT operations end-to-end.”
+
+🎨 COLOR SYSTEM (STRICT — SAME AS OTHER PAGES)
+
+Deep Tech Navy #0A1033
+
+Electric Blue #1F6FFF
+
+Tech Green #00D084
+
+Light Neutral #F7FAFC
+
+Text Dark #111827
+
+Text Light #FFFFFF
+
+Gradients only for CTA emphasis.
+
+🔤 TYPOGRAPHY
+
+Font Family: Inter
+
+Headings: Inter ExtraBold
+
+Sub-headings: Inter SemiBold
+
+Body: Inter Regular
+
+UI / Buttons: Inter Medium
+
+Large headings, short lines, generous spacing.
+
+⚡ PERFORMANCE & UX RULES
+
+Must feel instant
+
+SVG icons only
+
+Vector illustrations only
+
+CSS-based animations
+
+No heavy images
+
+Minimal DOM complexity
+
+Design must feel engineered, not decorative.
+
+📱 RESPONSIVE & SCALE
+
+Design must look premium on:
+
+Mobile
+
+Tablet
+
+Desktop
+
+Ultra-wide
+
+100-inch screens
+
+Use centered containers and fluid spacing.
+
+🧠 MANAGED SERVICES — PAGE STRUCTURE
+1️⃣ HERO — MANAGED SERVICES OVERVIEW
+
+Layout
+
+Full-width hero (shorter than Home)
+
+Dark background with subtle animated gradient mesh
+
+Hero Text
+
+Managed IT Services
+That Keep Technology Running — Always
+
+Subtext
+End-to-end IT operations, monitoring, support, and lifecycle management — designed for enterprise reliability and global scale.
+
+Animations:
+
+Text fade-in
+
+Very subtle background motion
+
+2️⃣ WHAT MANAGED SERVICES MEAN AT SECTORE
+
+Layout
+
+Centered text
+
+Minimal design
+
+Heading
+More Than Support. Complete Ownership.
+
+Text
+At Sectore Tecknologies, managed services mean proactive ownership of your technology environment — from daily operations to long-term optimization and risk reduction.
+
+No firefighting.
+No guesswork.
+Only predictable outcomes.
+
+3️⃣ CORE MANAGED SERVICES (PRIMARY SECTION)
+
+Layout
+
+Vertical sections with icons
+
+Alternating light / dark backgrounds
+
+Each service clearly defined
+
+🔧 IT Infrastructure Management
+
+Servers, desktops & laptops management
+
+OS installation, patching & optimization
+
+Performance monitoring & tuning
+
+Hardware health checks
+
+🌐 Network Operations & Monitoring
+
+Switches, routers & firewall monitoring
+
+LAN, WAN, Wi-Fi & VPN support
+
+Network performance & uptime monitoring
+
+ISP & vendor coordination
+
+🔒 Security Operations Management
+
+Firewall policy management
+
+Endpoint protection monitoring
+
+CCTV system health monitoring
+
+Access control & security device support
+
+🗄 Data Storage, Backup & Recovery
+
+NAS & centralized storage management
+
+Backup scheduling & verification
+
+Recovery readiness checks
+
+Surveillance storage optimization
+
+🧑‍💻 Remote & On-Site IT Support
+
+User support (remote & physical)
+
+Incident & request handling
+
+Break-fix & troubleshooting
+
+Escalation & resolution management
+
+🏢 Facility & On-Site IT Services
+
+Dedicated on-site engineers
+
+Daily IT operations support
+
+Multi-location coordination
+
+Asset handling & documentation
+
+🔄 Preventive Maintenance & Health Audits
+
+Scheduled preventive visits
+
+System & network health audits
+
+Risk identification
+
+Performance optimization recommendations
+
+📊 IT Asset & Lifecycle Management
+
+Asset inventory & tracking
+
+Warranty & AMC management
+
+Upgrade & replacement planning
+
+End-of-life coordination
+
+4️⃣ PRODUCTS WE MANAGE & SUPPORT (IMPORTANT SECTION)
+
+Layout
+
+Clean grid
+
+Product categories (not brand catalog)
+
+Icons + category names
+
+Heading
+Technology We Manage & Support
+
+Categories
+
+Desktops, Laptops & Workstations
+
+Physical & Virtual Servers
+
+Network Switches & Routers
+
+Firewalls & Security Appliances
+
+Wi-Fi Access Points
+
+NAS & Storage Systems
+
+CCTV Cameras, NVRs & VMS
+
+Access Control & Attendance Systems
+
+IP EPABX, IP Phones & PA Systems
+
+Printers & Office IT Equipment
+
+This section shows depth without clutter.
+
+5️⃣ AMC & SUPPORT MODELS
+
+Layout
+
+Card-based pricing logic (no prices shown)
+
+Calm, professional look
+
+Heading
+Flexible AMC & Support Models
+
+Cards:
+
+Annual Maintenance Contracts (AMC)
+
+Multi-year support programs
+
+Remote-only / Hybrid / On-site models
+
+Third-party hardware support
+
+CTA:
+Discuss Support Model →
+
+6️⃣ GLOBAL DELIVERY & OPERATIONAL READINESS
+
+Layout
+
+Dark background
+
+Abstract world map visual
+
+Heading
+Built for Continuous, Global Operations
+
+Points
+
+Multi-location IT support
+
+Remote monitoring & coordination
+
+Standardized processes
+
+Documentation & reporting
+
+Partner-friendly operations
+
+This reinforces enterprise & global trust.
+
+7️⃣ WHY MANAGED SERVICES FROM SECTORE
+
+Layout
+
+Clean checklist
+
+Strong statements
+
+Heading
+Why Organizations Trust Sectore
+
+Proactive, not reactive
+
+Predictable IT outcomes
+
+Clear ownership & accountability
+
+Engineering-driven approach
+
+Scalable & future-ready
+
+8️⃣ FINAL CTA — DECISION MOMENT
+
+Layout
+
+Minimal
+
+Centered
+
+Text
+
+Let Us Manage Your Technology,
+So You Can Focus on Growth
+
+Buttons:
+
+Talk to an Expert
+
+Contact Us
+
+Buttons:
+
+Gradient hover
+
+Subtle glow
+
+9️⃣ FOOTER (CONSISTENT WITH ALL PAGES)
+
+Footer includes:
+
+Brand summary
+
+Navigation links
+
+Contact details
+
+Social media icons (LinkedIn mandatory)
+
+Subtle separators
+
+Hover micro-interactions
+
+🧩 ICON STYLE
+
+Outline / stroke icons
+
+Rounded corners
+
+Technology-inspired
+
+Consistent sizing
+
+🌀 ANIMATION STYLE
+
+Fade-in
+
+Slide-up (small distance)
+
+Icon stroke draw
+
+No bouncing
+
+No flashy effects
+
+Motion must feel premium and restrained.
+
+❌ STRICTLY AVOID
+
+Buzzwords
+
+Service overload without structure
+
+Brand logo clutter
+
+Heavy imagery
+
+Salesy language
+
+✅ FINAL GOAL
+
+This page should make visitors think:
+
+“This company will run my IT reliably.”
+“They understand operations deeply.”
+“They are built for enterprise and scale.”

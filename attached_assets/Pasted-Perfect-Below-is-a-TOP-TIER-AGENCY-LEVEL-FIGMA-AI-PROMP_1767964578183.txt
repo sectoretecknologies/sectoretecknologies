@@ -1,0 +1,361 @@
+Perfect.
+Below is a **TOP-TIER, AGENCY-LEVEL FIGMA AI PROMPT** for the **SOLUTIONS page** of **Sectore Tecknologies**.
+
+This prompt is written to create a **next-generation, technology-first Solutions page** that:
+
+* Feels **Apple-clean + Samsung-powerful**
+* Is **enterprise & global ready**
+* Explains complex solutions **without complexity**
+* Scales from **mobile → tablet → desktop → 100-inch screens**
+* Feels **instant (1–2 ms perceived load)**
+* Matches **everything we defined earlier (Home + About)**
+
+You can **paste this directly into Figma AI / Figma Sites / any AI website builder**.
+
+---
+
+# 🔥 FINAL FIGMA AI PROMPT — **SOLUTIONS PAGE**
+
+*(Paste everything below as ONE prompt)*
+
+---
+
+## 🎯 FIGMA AI PROMPT — SOLUTIONS
+
+### Sectore Tecknologies
+
+Design a **world-class, global-standard “Solutions” page** for a premium technology company named **Sectore Tecknologies**.
+
+This page must communicate **technical depth, system thinking, and enterprise maturity** — not a list of services.
+
+The visitor should feel:
+
+> “These people architect technology ecosystems, not just sell IT.”
+
+---
+
+## 🔹 BRAND & POSITIONING
+
+* Company: Sectore Tecknologies
+* Industry: Global IT Infrastructure, Networking, Security & Managed Services
+* Brand Personality:
+  **Precise · Intelligent · Calm · Engineering-Driven · Global**
+* Audience:
+  CIOs, CTOs, enterprise decision-makers, system integrator partners
+
+---
+
+## 🎨 COLOR SYSTEM (STRICT — SAME AS HOME & ABOUT)
+
+* Deep Tech Navy `#0A1033`
+* Electric Blue `#1F6FFF`
+* Tech Green `#00D084`
+* Light Neutral `#F7FAFC`
+* Text Dark `#111827`
+* Text Light `#FFFFFF`
+
+Use gradients **only for emphasis**, never decoration.
+
+---
+
+## 🔤 TYPOGRAPHY
+
+* Font Family: **Inter**
+* Headings: Inter ExtraBold
+* Sub-headings: Inter SemiBold
+* Body: Inter Regular
+
+Large headings, strong hierarchy, generous white space.
+
+---
+
+## ⚡ PERFORMANCE & UX RULES (NON-NEGOTIABLE)
+
+* Page must feel **instant**
+* No heavy images
+* SVG icons only
+* Vector illustrations only
+* CSS-style animations
+* Minimal DOM complexity
+
+Design must **feel engineered**, not decorative.
+
+---
+
+## 📱 RESPONSIVE & SCALE
+
+Design must look **intentional and premium** on:
+
+* Mobile
+* Tablet
+* Desktop
+* Ultra-wide
+* 100-inch displays
+
+Use centered containers with fluid max-width and controlled line lengths.
+
+---
+
+# 🧠 SOLUTIONS PAGE STRUCTURE
+
+---
+
+### 1️⃣ HERO — SOLUTIONS OVERVIEW (POWERFUL & CLEAN)
+
+**Layout**
+
+* Full-width hero (shorter than Home)
+* Dark background with subtle animated gradient mesh
+* No photos, no people
+
+**Hero Text**
+
+> **Technology Solutions
+> Built for Scale, Security & Performance**
+
+**Subtext**
+We design and manage enterprise-grade technology ecosystems that power modern organizations across locations, industries, and regions.
+
+Animation:
+
+* Text fade-in
+* Slow background motion
+
+---
+
+### 2️⃣ SOLUTION PHILOSOPHY (WHY OUR SOLUTIONS ARE DIFFERENT)
+
+**Layout**
+
+* Centered content
+* Minimal text
+* Calm, confident tone
+
+**Heading**
+**Solutions Designed as Systems**
+
+**Text**
+Our solutions are not isolated components.
+They are **integrated systems**, engineered to work together — securely, reliably, and at scale.
+
+This section sets a **consulting-grade tone**.
+
+---
+
+### 3️⃣ CORE SOLUTION DOMAINS (MAIN SECTION)
+
+**Layout**
+
+* Vertical stacked solution blocks
+* Each block = icon + title + short explanation
+* Alternating light/dark backgrounds
+
+Use **technology outline icons** only.
+
+---
+
+#### 🖥 **IT Infrastructure & Computing**
+
+Enterprise endpoints, servers, virtualization, and system optimization — designed for reliability and lifecycle governance.
+
+---
+
+#### 🌐 **Network & Connectivity Solutions**
+
+LAN, WAN, Wi-Fi, structured cabling, secure routing, firewalls, and multi-location connectivity.
+
+---
+
+#### 🗄 **Data Storage, Backup & Continuity**
+
+Centralized storage, NAS, backup, recovery, and business continuity planning.
+
+---
+
+#### 🔒 **Security & Surveillance Systems**
+
+CCTV, access control, intrusion detection, fire systems, and compliance-ready monitoring.
+
+---
+
+#### ☎ **IP Communication & Collaboration**
+
+IP telephony, EPABX, PA systems, and enterprise communication platforms.
+
+---
+
+#### ☁ **Hybrid & Remote Enablement**
+
+Secure remote access, hybrid infrastructure, and distributed workforce enablement.
+
+Hover behavior:
+
+* Soft scale
+* Icon stroke animation
+* No flashy effects
+
+---
+
+### 4️⃣ MANAGED SERVICES (EMBEDDED, NOT SEPARATE)
+
+**Layout**
+
+* Split section
+* Left: Text
+* Right: Abstract system diagram
+
+**Heading**
+**Managed Services Built Into Every Solution**
+
+**Text**
+Every solution we deliver is supported by structured managed services — ensuring performance, security, and continuity long after deployment.
+
+Bullets:
+
+* Preventive maintenance
+* Remote & on-site support
+* AMC programs
+* Asset lifecycle management
+
+CTA:
+**Explore Managed Services →**
+
+---
+
+### 5️⃣ INDUSTRIES & USE CASES (STRATEGIC VIEW)
+
+**Layout**
+
+* Clean icon grid
+* No long descriptions
+
+**Heading**
+**Solutions Across Industries**
+
+Icons + labels:
+
+* Enterprises & Corporate Groups
+* Manufacturing & Industrial
+* Education & Research
+* Healthcare
+* Retail & Commercial
+* Smart Infrastructure
+
+This reinforces **scale & versatility**.
+
+---
+
+### 6️⃣ GLOBAL DELIVERY MODEL (TRUST SECTION)
+
+**Layout**
+
+* Dark background
+* World-map inspired abstract
+* Subtle animated nodes
+
+**Heading**
+**Designed for Global Deployment**
+
+**Points**
+
+* Multi-location rollouts
+* Standardized architecture
+* Remote monitoring
+* Partner-ready delivery
+* Vendor-agnostic ecosystems
+
+This section must feel **international and mature**.
+
+---
+
+### 7️⃣ CTA — MOVE TO DECISION
+
+**Layout**
+
+* Minimal
+* Centered
+* Calm, confident
+
+**Text**
+
+> **Let’s Architect the Right Technology Foundation**
+
+Buttons:
+
+* Talk to an Expert
+* Contact Us
+
+Button hover:
+
+* Gradient transition
+* Subtle glow
+
+---
+
+### 8️⃣ FOOTER (CONSISTENT WITH HOME & ABOUT)
+
+Footer must include:
+
+* Brand summary
+* Navigation links
+* Contact details
+* Social media icons (LinkedIn priority)
+* Minimal dividers
+* Hover micro-interactions
+
+---
+
+## 🧩 ICON STYLE
+
+* Outline / stroke icons only
+* Rounded edges
+* Technology-inspired
+* Consistent sizing
+* No playful or cartoon icons
+
+---
+
+## 🌀 ANIMATION STYLE
+
+* Fade-in
+* Slide-up (very small distance)
+* Icon stroke draw
+* No bouncing
+* No exaggerated motion
+
+Motion must feel **expensive and restrained**.
+
+---
+
+## ❌ STRICTLY AVOID
+
+* Service lists without context
+* Buzzwords
+* Stock imagery
+* Over-design
+* Loud colors
+* Marketing clichés
+
+---
+
+## ✅ FINAL GOAL
+
+This Solutions page should make visitors think:
+
+> “This company understands technology as a system.”
+> “They can handle complexity.”
+> “They are built for enterprise and global scale.”
+
+---
+
+## 🚀 NEXT STEP
+
+When ready, say:
+
+* **“Next: Managed Services prompt”**
+* **“Next: Industries prompt”**
+* **“Next: Why Sectore prompt”**
+* **“Next: Contact Us prompt”**
+* **“Next: Tech Guide (Blog + SEO) prompt”**
+
+We are building this **layer by layer, at world-class level**.

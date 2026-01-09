@@ -1,0 +1,351 @@
+Perfect. Below is a **NEXT-TO-NEXT LEVEL FIGMA AI PROMPT** for the **ABOUT US page** of **Sectore Tecknologies**.
+
+This is **elite-grade**, written the way **top global product designers** brief AI/design systems.
+You can **paste this directly into Figma AI / Figma Sites / any AI UI generator**.
+
+This prompt is designed to:
+
+* Beat **Apple & Samsung** in **clarity + restraint**
+* Feel **global, timeless, enterprise**
+* Scale from **mobile → 100-inch displays**
+* Stay **ultra-lightweight (1–2 ms perceived load)**
+* Match everything we defined in the HOME page
+
+---
+
+# 🔥 FINAL FIGMA AI PROMPT — **ABOUT US PAGE**
+
+*(Paste everything below as ONE prompt)*
+
+---
+
+## 🎯 FIGMA AI PROMPT — ABOUT US
+
+### Sectore Tecknologies
+
+Design a **world-class, globally credible “About Us” page** for a premium technology company named **Sectore Tecknologies**.
+
+This page must **not feel like a typical “About company” page**.
+It should feel like a **vision + credibility + engineering mindset statement**, similar to how **Apple, Samsung, Microsoft, or NVIDIA** communicate identity.
+
+---
+
+## 🔹 BRAND & TONE
+
+* Industry: Global IT Infrastructure & Technology Solutions
+* Brand Personality:
+  **Confident · Minimal · Intelligent · Engineering-Driven · Trustworthy · Global**
+* Audience:
+  CIOs, CTOs, enterprise buyers, global partners, investors
+
+This page must communicate:
+
+* *“We know exactly what we are doing”*
+* *“We are built for scale”*
+* *“We think in systems, not services”*
+
+---
+
+## 🎨 COLOR SYSTEM (MUST MATCH HOME)
+
+* Deep Tech Navy `#0A1033`
+* Electric Blue `#1F6FFF`
+* Tech Green `#00D084`
+* Light Neutral `#F7FAFC`
+* Text Dark `#111827`
+* Text Light `#FFFFFF`
+
+Use **color as confidence, not decoration**.
+
+---
+
+## 🔤 TYPOGRAPHY
+
+* Font: **Inter**
+* Headings: Inter ExtraBold
+* Sub-headings: Inter SemiBold
+* Body: Inter Regular
+
+Large headings, generous spacing, Apple-level restraint.
+
+---
+
+## ⚡ PERFORMANCE & UX RULES
+
+* Design must feel **instant**
+* No heavy imagery
+* No clutter
+* SVG icons only
+* CSS-style animations only
+* Everything must feel **calm, fast, premium**
+
+---
+
+## 📱 RESPONSIVE & SCALE
+
+Must look **perfect and intentional** on:
+
+* Mobile
+* Tablet
+* Desktop
+* Ultra-wide
+* **100-inch screens**
+
+Use centered max-width containers with fluid margins.
+
+---
+
+# 🧠 ABOUT US — PAGE STRUCTURE
+
+---
+
+### 1️⃣ HERO STATEMENT (MINIMAL, POWERFUL)
+
+**Layout**
+
+* Full viewport height (shorter than home)
+* Dark background
+* Subtle animated gradient mesh
+* No photos, no people
+
+**Text (Large, Bold):**
+
+> **We Design Technology
+> That Scales With Ambition**
+
+**Subtext (Small, calm):**
+Sectore Tecknologies is a global-ready technology solutions partner focused on building secure, scalable, and future-proof digital infrastructure.
+
+Animation:
+
+* Text fade-in
+* Very slow background motion
+
+---
+
+### 2️⃣ WHO WE ARE (IDENTITY SECTION)
+
+**Layout**
+
+* Two-column (stacked on mobile)
+* Left: Text
+* Right: Abstract system / architecture illustration
+
+**Heading**
+**Who We Are**
+
+**Content**
+We are technology architects and system integrators who design, deploy, and manage enterprise-grade IT ecosystems.
+
+We work as an **extension of our clients’ technology leadership**, taking responsibility for performance, security, and scalability across infrastructure, networks, data, and operations.
+
+No marketing fluff.
+This must read like an **engineering manifesto**.
+
+---
+
+### 3️⃣ OUR PHILOSOPHY (DESIGN PRINCIPLES)
+
+**Layout**
+
+* Horizontal cards or vertical timeline
+* Icon + short statement
+* Minimal text
+
+**Heading**
+**Our Philosophy**
+
+Cards:
+
+* **Solution-First Thinking**
+  Technology must solve real business problems.
+
+* **Security by Design**
+  Protection is built into architecture, not added later.
+
+* **Scalability at Core**
+  Systems must grow without rework.
+
+* **Single-Point Accountability**
+  One partner. Clear responsibility.
+
+* **Long-Term Partnership**
+  We build relationships, not transactions.
+
+Icons:
+
+* Outline, tech-style, subtle stroke animation on hover.
+
+---
+
+### 4️⃣ HOW WE THINK (ENGINEERING MINDSET)
+
+**Layout**
+
+* Full-width light section
+* Centered content
+* Very clean
+
+**Heading**
+**How We Think About Technology**
+
+**Text**
+We believe technology should be **predictable, resilient, and invisible** to business operations.
+
+Our approach focuses on:
+
+* System integrity
+* Operational continuity
+* Risk reduction
+* Lifecycle governance
+
+This section must feel **consulting-grade and global**.
+
+---
+
+### 5️⃣ OUR DELIVERY MODEL (GLOBAL PROCESS)
+
+**Layout**
+
+* Horizontal process
+* Thin lines, icons, labels
+* Subtle scroll animation
+
+**Steps**
+Discover → Design → Deploy → Operate → Scale
+
+Each step has **1 short line**, no paragraphs.
+
+This reinforces seriousness and maturity.
+
+---
+
+### 6️⃣ GLOBAL READINESS (TRUST BUILDER)
+
+**Layout**
+
+* Dark background again
+* World-map inspired abstract
+* Small glowing nodes
+
+**Heading**
+**Built for Global Operations**
+
+**Points**
+
+* Multi-location deployments
+* Standardized documentation
+* Remote monitoring & collaboration
+* Partner-friendly delivery model
+* Vendor-agnostic architecture
+
+This section is **critical for international credibility**.
+
+---
+
+### 7️⃣ WHY SECTORE (SUB-PAGE PREVIEW)
+
+**Layout**
+
+* Clean grid
+* Short, sharp statements
+
+**Heading**
+**Why Organizations Choose Sectore**
+
+Statements:
+
+* Engineering-driven approach
+* Enterprise-grade execution
+* Predictable outcomes
+* Clear ownership
+* Scalable foundations
+
+CTA:
+**Explore Why Sectore →**
+(leads to sub-page)
+
+---
+
+### 8️⃣ CLOSING STATEMENT (EMOTIONAL, CALM)
+
+**Layout**
+
+* Minimal
+* Centered
+* No distractions
+
+**Text**
+
+> **Technology Should Empower Growth,
+> Not Complicate It.**
+
+Small subtext:
+That’s the principle behind everything we build.
+
+---
+
+### 9️⃣ FOOTER (CONSISTENT WITH HOME)
+
+Footer must include:
+
+* Brand
+* Navigation links
+* Contact details
+* Social media icons (LinkedIn mandatory)
+* Subtle divider lines
+* Hover glow on icons
+
+---
+
+## 🧩 ICON STYLE
+
+* Outline only
+* Rounded strokes
+* Technology-inspired
+* No playful icons
+* Consistent sizing
+
+---
+
+## 🌀 ANIMATION STYLE
+
+* Fade-in
+* Slide-up (small distance)
+* Stroke-draw on icons
+* No bouncing, no flashy effects
+
+Motion should feel **expensive and controlled**.
+
+---
+
+## ❌ STRICTLY AVOID
+
+* Buzzwords
+* Over-text
+* Stock photos
+* Random gradients
+* Loud UI elements
+* Marketing clichés
+
+---
+
+## ✅ FINAL GOAL
+
+This About Us page should make the visitor think:
+
+> “This company understands technology deeply.”
+> “They are built for scale.”
+> “They are not trying to impress — they already know their value.”
+
+---
+
+## 🚀 NEXT STEP
+
+When ready, say:
+
+* **“Next: Why Sectore prompt”**
+  or
+* **“Next: Solutions prompt”**
+
+We are building something **elite** — and this page locks that perception permanently.
